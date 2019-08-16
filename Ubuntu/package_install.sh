@@ -11,3 +11,6 @@ sudo apt install gcc g++ cmake
 
 # Install python3 pip  and ipython
 sudo apt install python3 ipython3 python3-pip 
+
+# Install zsh
+sudo apt install zsh
