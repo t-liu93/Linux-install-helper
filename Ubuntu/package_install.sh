@@ -17,3 +17,7 @@ sudo apt install zsh
 
 # Install smbclient
 sudo apt install smbclient
+
+# Install nfs helper and cifs helper
+sudo apt install nfs-common
+sudo apt install cifs-utils
