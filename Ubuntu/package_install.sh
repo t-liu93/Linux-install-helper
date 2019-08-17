@@ -14,3 +14,6 @@ sudo apt install python3 ipython3 python3-pip
 
 # Install zsh
 sudo apt install zsh
+
+# Install smbclient
+sudo apt install smbclient
