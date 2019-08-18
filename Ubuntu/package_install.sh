@@ -21,3 +21,6 @@ sudo apt install smbclient
 # Install nfs helper and cifs helper
 sudo apt install nfs-common
 sudo apt install cifs-utils
+
+# Install resolvconf for local resolv
+sudo apt install resolvconf
