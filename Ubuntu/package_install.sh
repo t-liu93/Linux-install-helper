@@ -24,3 +24,6 @@ sudo apt install cifs-utils
 
 # Install resolvconf for local resolv
 sudo apt install resolvconf
+
+# Install ovpn
+sudo apt install openvpn
